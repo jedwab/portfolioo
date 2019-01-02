@@ -567,6 +567,10 @@ body {
           background-image: url("../images/rock_paper_scissors_spock.png"); }
         .projects .row .project_box .content .project_06 {
           background-image: url("../images/country_search.png"); }
+          .projects .row .project_box .content .project_07 {
+            background-image: url("../images/quote.png"); }
+          .projects .row .project_box .content .project_08 {
+            background-image: url("../images/fialek.png"); }
         .projects .row .project_box .content .project_09 {
           background-image: url("../images/gif.png"); }
         .projects .row .project_box .content .project_10 {
@@ -664,7 +668,9 @@ body {
             @media (min-width: 992px) and (max-width: 1200px) {
               .projects .row .project_box .content .project_desc .desc {
                 font-size: 0.9em;
-                line-height: 1.4em; } }
+                line-height: 1.4em; 
+                padding: 0 1em;}
+              }
 
 .contact {
   background-color: #1c1c1c;
